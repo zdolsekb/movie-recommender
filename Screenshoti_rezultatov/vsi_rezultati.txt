@@ -1,0 +1,134 @@
+C:\Users\Uporabnik\AppData\Local\Programs\Python\Python38\python.exe E:/Tretji_Letnik/OS/Seminarska2/Recommender/Main.py
+Branje ocen
+855598
+72784
+
+Branje filmov
+Toy story
+
+Naključni prediktor
+<class 'dict'>
+Film: Toy story, ocena: 1
+Film: Grumpy Old Men, ocena: 3
+Film: Money Train, ocena: 1
+Film: The Usual Suspects, ocena: 4
+Film: City Hall, ocena: 4
+
+Priporočanje
+Film: The American President, ocena: 5
+Film: Ace Ventura: When Nature Calls, ocena: 5
+Film: Money Train, ocena: 5
+Film: Ninja Assassin, ocena: 5
+Film: Leaving Las Vegas, ocena: 5
+
+Napovedovanje s povprečjem
+Film: The Usual Suspects, ocena: 4.225944245560473
+Film: The Godfather: Part II, ocena: 4.146907937910189
+Film: Cidade de Deus, ocena: 4.116538340205236
+Film: The Dark Knight, ocena: 4.10413904093503
+Film: 12 Angry Men, ocena: 4.103639627096175
+
+Priporočanje najbolj gledanih filmov
+Film: The Lord of the Rings: The Fellowship of the Ring, ocena: 1576
+Film: The Lord of the Rings: The Two Towers, ocena: 1528
+Film: The Lord of the Rings: The Return of the King, ocena: 1457
+Film: The Silence of the Lambs, ocena: 1431
+Film: Shrek, ocena: 1404
+
+Napovedovanje ocen s podobnostjo med produkti
+Podobnost med filmoma 'Men in black'(1580) in 'Ghostbusters'(2716):  0.2339552317675661
+Podobnost med filmoma 'Men in black'(1580) in 'Schindler's List'(527):  0.0
+Podobnost med filmoma 'Men in black'(1580) in 'Independence day'(780):  0.42466125844687547
+
+Napovedovanje za posameznega uporabnika:
+Predictions for 78: 
+Film: The Usual Suspects, ocena: 4.423440099049541
+Film: Indiana Jones and the Last Crusade, ocena: 4.418084750090346
+Film: The Incredibles, ocena: 4.350002201801374
+Film: The Silence of the Lambs, ocena: 4.274605441076515
+Film: The Lord of the Rings: The Fellowship of the Ring, ocena: 4.247857355060327
+Film: The Lion King, ocena: 4.2445041578547915
+Film: Gladiator, ocena: 4.079821823069289
+Film: Shichinin no samurai, ocena: 4.036728094319444
+Film: Pirates of the Caribbean: The Curse of the Black Pearl, ocena: 4.008772025844179
+Film: The Lord of the Rings: The Two Towers, ocena: 3.9919573027088444
+Film: Batman, ocena: 3.9822532350713
+Film: Titanic, ocena: 3.968096807937309
+Film: Rain Man, ocena: 3.9620897185764443
+Film: Batman Begins, ocena: 3.9563308107845163
+Film: A Beautiful Mind, ocena: 3.9231762494854996
+Najbolj podobni filmi
+Film1: The Lord of the Rings: The Two Towers Film2: The Lord of the Rings: The Return of the King Sim: 0.8439842148481411
+Film1: The Lord of the Rings: The Return of the King Film2: The Lord of the Rings: The Two Towers Sim: 0.8439842148481411
+Film1: The Lord of the Rings: The Fellowship of the Ring Film2: The Lord of the Rings: The Two Towers Sim: 0.8231885401761887
+Film1: The Lord of the Rings: The Two Towers Film2: The Lord of the Rings: The Fellowship of the Ring Sim: 0.8231885401761887
+Film1: The Lord of the Rings: The Fellowship of the Ring Film2: The Lord of the Rings: The Return of the King Sim: 0.8079374897442487
+Film1: The Lord of the Rings: The Return of the King Film2: The Lord of the Rings: The Fellowship of the Ring Sim: 0.8079374897442487
+Film1: Kill Bill: Vol. 2 Film2: Kill Bill: Vol. 2 Sim: 0.7372340224381033
+Film1: Kill Bill: Vol. 2 Film2: Kill Bill: Vol. 2 Sim: 0.7372340224381033
+Film1: Star Wars Film2: Star Wars: Episode V - The Empire Strikes Back Sim: 0.7021321132220316
+Film1: Star Wars: Episode V - The Empire Strikes Back Film2: Star Wars Sim: 0.7021321132220316
+Film1: Ace Ventura: Pet Detective Film2: The Mask Sim: 0.6616471778494041
+Film1: The Mask Film2: Ace Ventura: Pet Detective Sim: 0.6616471778494041
+Film1: Star Wars: Episode V - The Empire Strikes Back Film2: Star Wars: Episode VI - Return of the Jedi Sim: 0.5992253753778951
+Film1: Star Wars: Episode VI - Return of the Jedi Film2: Star Wars: Episode V - The Empire Strikes Back Sim: 0.5992253753778951
+Film1: Independence Day Film2: Star Wars: Episode I - The Phantom Menace Sim: 0.5610426219249982
+Film1: Star Wars: Episode I - The Phantom Menace Film2: Independence Day Sim: 0.5610426219249982
+Film1: Ace Ventura: Pet Detective Film2: Austin Powers: The Spy Who Shagged Me Sim: 0.5546511205201548
+Film1: Austin Powers: The Spy Who Shagged Me Film2: Ace Ventura: Pet Detective Sim: 0.5546511205201548
+Film1: Star Wars Film2: Star Wars: Episode VI - Return of the Jedi Sim: 0.5537849318137374
+
+Priporočanje glede na trenutno ogledano vsebino
+Filmi podobni "The Lord of the Rings: The Fellowship of the Ring": 
+Film: The Lord of the Rings: The Two Towers, ocena: 0.8231885401761887
+Film: The Lord of the Rings: The Return of the King, ocena: 0.8079374897442487
+Film: Star Wars: Episode V - The Empire Strikes Back, ocena: 0.23961943073496453
+Film: Star Wars, ocena: 0.21965586527074088
+Film: The Matrix, ocena: 0.2151555270688026
+Film: Raiders of the Lost Ark, ocena: 0.19944276706345052
+Film: The Usual Suspects, ocena: 0.18321188451910767
+Film: Blade Runner, ocena: 0.16399681315410303
+Film: Schindler's List, ocena: 0.16105905138148724
+Film: Monty Python and the Holy Grail, ocena: 0.15780453798519137
+
+Priporočilo zase
+Predictions for Blaz Zdolsek(-1): 
+Film: The Fugitive, ocena: 4.5699561888605205
+Film: Being John Malkovich, ocena: 4.135438906774332
+Film: The Lion King, ocena: 4.122459442224704
+Film: Fight Club, ocena: 4.026892787334584
+Film: Star Wars: Episode V - The Empire Strikes Back, ocena: 4.025967176694359
+Film: Groundhog Day, ocena: 3.983273278050522
+Film: The Usual Suspects, ocena: 3.958442103477175
+Film: Ocean's Eleven, ocena: 3.956346268817067
+Film: Good Will Hunting, ocena: 3.954979708333528
+Film: The Lord of the Rings: The Two Towers, ocena: 3.876991027693794
+Film: The Bourne Identity, ocena: 3.8544055506722095
+Film: A Beautiful Mind, ocena: 3.849977697924595
+Film: Monty Python and the Holy Grail, ocena: 3.84684959530832
+Film: The Godfather, ocena: 3.8139469406732607
+Film: The Sixth Sense, ocena: 3.7776804192319218
+
+Slope one
+
+Predictions for 78: 
+Film: The Usual Suspects, ocena: 4.325079182263173
+Film: The Lord of the Rings: The Fellowship of the Ring, ocena: 4.155293229840448
+Film: The Lord of the Rings: The Return of the King, ocena: 4.153135076202185
+Film: The Silence of the Lambs, ocena: 4.127978169643881
+Film: Shichinin no samurai, ocena: 4.119790444913598
+Film: The Lord of the Rings: The Two Towers, ocena: 4.083325894849594
+Film: Indiana Jones and the Last Crusade, ocena: 3.9670398355464194
+Film: The Incredibles, ocena: 3.9664496674557546
+Film: Good Will Hunting, ocena: 3.963362387354114
+Film: Sin City, ocena: 3.942619137615212
+Film: Batman Begins, ocena: 3.9375326640077017
+Film: A Beautiful Mind, ocena: 3.9140940935239508
+Film: Rain Man, ocena: 3.9107819079644943
+Film: Monsters, Inc., ocena: 3.8819375978658006
+Film: Finding Nemo, ocena: 3.8807711131654794
+
+Evalvacija
+0.8526877575158754 0.6296575385432743 0.10299869621903521 0.018950436857449578 0.032011220413912606
+
+Process finished with exit code 0
